@@ -3,7 +3,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 
 # Author
 John Smith, Uni of Sheffield
-Oliver Hatt, Uni of Manchester
+Oliver Hatt, Uni of Harvard
 Gerard Capes, University of Manchester
 
 #Introduction
