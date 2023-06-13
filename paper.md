@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Oliver Hatt
-John Smith
+Oliver Hatt, Uni of Manchester
+John Smith, Uni of Sheffield
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
